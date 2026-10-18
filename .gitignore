@@ -1,0 +1,14 @@
+﻿# Generated files
+build/
+dist/
+out/
+exports/
+
+# IDE and local files
+.idea/
+.vscode/
+*.log
+
+# Operating system
+Thumbs.db
+.DS_Store
